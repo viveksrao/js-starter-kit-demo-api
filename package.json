@@ -1,0 +1,20 @@
+{
+  "name": "js-starter-kit-demo-api",
+  "version": "1.0.0",
+  "description": "A simple API built in Node and Express hosted on Heroku.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "API"
+  ],
+  "author": "Vivekanand Rao",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  }
+}
